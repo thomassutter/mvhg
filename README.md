@@ -1,5 +1,5 @@
 # Learning Group Importance using the Differentiable Hypergeometric Distribution
-Python library for the differentiable hypergeometric distribution
+Python library for the differentiable hypergeometric distribution.
 
 This is the official code for the ICLR 2023 Paper (Spotlight) 
 **"Learning Group Importance using the Differentiable Hypergeometric Distribution"**.
